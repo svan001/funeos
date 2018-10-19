@@ -1,5 +1,5 @@
 /*
-* Copyright (c) 2011-2018 Your Organization (https://yourwebsite.com)
+* Copyright (c) 2011-2018 Your Organization (https://stephane.gronowski.me)
 *
 * This program is free software; you can redistribute it and/or
 * modify it under the terms of the GNU General Public
@@ -16,7 +16,7 @@
 * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
 * Boston, MA 02110-1301 USA
 *
-* Authored by: Author <author@example.com>
+* Authored by: Author <stephane.gronowski@gmail.com>
 */
 public class MyApp : Gtk.Application {
     
