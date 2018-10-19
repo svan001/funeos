@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=Fun with EOS
+Categories=Utility;Education
+Exec=com.github.svan001.funeos
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
