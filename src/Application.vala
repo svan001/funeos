@@ -34,6 +34,8 @@ public class MyApp : Gtk.Application {
         main_window.default_width = 300;
         main_window.title = "Hello World";
         
+        // Click ME button
+        /*
         var button_hello = new Gtk.Button.with_label("Click ME !");
         button_hello.margin = 12;
         button_hello.clicked.connect( () => {
@@ -43,6 +45,12 @@ public class MyApp : Gtk.Application {
         );
         
         main_window.add(button_hello);
+        */
+        
+        // Label
+        var label = new Gtk.Label("Hello Again");
+        main_window.add(label);
+        
         main_window.show_all();
     }
 
