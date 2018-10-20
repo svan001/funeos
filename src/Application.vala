@@ -48,8 +48,10 @@ public class MyApp : Gtk.Application {
         */
         
         // Label
-        var label = new Gtk.Label("Hello Again");
+        var label = new Gtk.Label(_("Hello Again"));
         main_window.add(label);
+        var label2 = new Gtk.Label(_("It's ME !!"));
+        main_window.add(label2);
         
         main_window.show_all();
     }
