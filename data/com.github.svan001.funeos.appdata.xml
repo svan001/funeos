@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Your Name <stephane.gronowski@gmail.cocm> -->
+<component type="desktop">
+  <id>com.github.svan001.funeos</id>
+  <metadata_license>CC0</metadata_license>
+  <name>FUN EOS</name>
+  <summary>NOT A Catchy Tagline</summary>
+  <description>
+    <p>Just fun with elementary OS.</p>
+  </description>
+</component>
